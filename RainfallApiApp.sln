@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainfallApi", "RainfallApi\RainfallApi.csproj", "{BFBA8A27-6241-4C13-AF99-7A5D586A1F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBA8A27-6241-4C13-AF99-7A5D586A1F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBA8A27-6241-4C13-AF99-7A5D586A1F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBA8A27-6241-4C13-AF99-7A5D586A1F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBA8A27-6241-4C13-AF99-7A5D586A1F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FECD4EB4-D48F-4A66-821A-E280941B2FFD}
+	EndGlobalSection
+EndGlobal
